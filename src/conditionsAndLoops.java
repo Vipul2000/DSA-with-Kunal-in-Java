@@ -19,7 +19,7 @@ public class conditionsAndLoops {
 
         */
 
-        int salary = 25000;
+        /*int salary = 25000;
         if (salary>10000){
             salary= salary+2000;
         }
@@ -54,7 +54,7 @@ public class conditionsAndLoops {
 
         //Print number from 1 to n
 
-        Scanner sc = new Scanner(System.in);
+        /*Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
 
@@ -79,7 +79,7 @@ public class conditionsAndLoops {
         do {
             System.out.println(n);
             n++;
-        } while (n<=5);
+        } while (n<=5); */
 
     }
 }
