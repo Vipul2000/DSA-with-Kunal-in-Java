@@ -7,7 +7,7 @@ public class linearSearch {
     public static void main(String[] args) {
 
         int[] nums = {23,14,15,25,63,85,22,96};
-        int target = 14;
+        int target = 85;
 
         int ans = linearSearch(nums , target);
 
